@@ -8,3 +8,7 @@ Corresponding Kaggle competition: https://www.kaggle.com/competitions/widsdatath
 The repository contains the literature review of models applying for the temperature prediction problem and the notebook including EDA and LSTM model.
 # Challenge details
 TBD
+# Literature review
+TBD
+# Model development and evaluation
+TBD
