@@ -5,6 +5,8 @@ General project link: https://github.com/OmdenaAI/silicon-valley-chapter-extreme
 
 Corresponding Kaggle competition: https://www.kaggle.com/competitions/widsdatathon2023 
 
+The final presentation: https://youtu.be/JeeT20i2diI 
+
 The repository contains the literature review of models applying for the temperature prediction problem and the notebook including EDA and LSTM model.
 # Challenge details
 In this 4-week project, the team modeled data to predict the arithmetic mean of the maximum and minimum temperature over the next 14 days for each location and start date for longer-term weather forecasting to help communities adapt to extreme weather events caused by climate change.
