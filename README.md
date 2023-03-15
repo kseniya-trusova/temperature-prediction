@@ -23,6 +23,6 @@ The file includes the following steps:
 1. Some EDA based on the team findings. The domain expert of the team (meteorologist) provided recommendations about features value. Then the team continued to work with remaining features.
 2. The modeling stage based on the literature review findings. 
 
-The different configurations of LSTM architecture were considered. Nevertheless, the validation loss function was higher than the training loss for any combination that means the model was underfitting. At the same time, the model did not give an absolute error less than 4 Celsius degrees.
+The different configurations of LSTM architecture were considered. Nevertheless, the validation loss function was higher than the training loss for any combination that means the model was underfitting. At the same time, the model did not give an absolute error less than 4 Celsius degrees for the locations of different climatic regions and less than 2.5 degrees for the locations of the same climatic region.
 
 Returning to the feature selection step and working on the locations and dataset size can be considered as possible improvements.
